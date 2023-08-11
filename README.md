@@ -1,5 +1,5 @@
-# FTP_basics
-This repo is to learn basics of ftp using command line interface
+
+## This repo is to learn basics of ftp using command line interface
 
 
 ## Steps to access ftp(for android using CX-file explorer)
