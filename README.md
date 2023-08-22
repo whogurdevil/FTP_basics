@@ -29,6 +29,6 @@
 4. Configure using username and password.
 5. List of all commands can be seen here https://www.computerhope.com/unix/utelnet.htm
    Syntax ``` ftp [options] [IP] ```
-6. Now we can manipulate with remote device's files using operations like copy,cut,paste,rename etc.
+6. Now we can manipulate the remote device's files using operations like copy,cut,paste,rename etc.
 
    
